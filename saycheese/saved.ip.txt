@@ -1,0 +1,18 @@
+IP: 36.71.233.198
+ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0IP: 3.94.163.211
+ User-Agent: bitlybot/3.0 (+http://bit.ly/)IP: 36.71.233.198
+ User-Agent: WhatsApp/2.20.189 AIP: 36.71.233.198
+ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0IP: 120.188.95.196
+ User-Agent: Mozilla/5.0 (Linux; Android 10; Mi A2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Mobile Safari/537.36IP: 203.207.56.212
+ User-Agent: Mozilla/5.0 (Linux; U; Android 9; en-US; SM-J730G Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 UCBrowser/13.2.8.1301 Mobile Safari/537.36IP: 114.122.68.110
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; vivo 1807 Build/OPM1.171019.026; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36 VivoBrowser/6.2.0.4IP: 116.206.15.59
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; CPH1803) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Mobile Safari/537.36IP: 36.71.235.121
+ User-Agent: Mozilla/5.0 (Linux; U; Android 9; in-id; CPH1911 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.80 Mobile Safari/537.36 HeyTapBrowser/25.7.2.5IP: 36.71.235.121
+ User-Agent: Mozilla/5.0 (Linux; U; Android 9; in-id; CPH1911 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.80 Mobile Safari/537.36 HeyTapBrowser/25.7.2.5IP: 36.71.235.121
+ User-Agent: Mozilla/5.0 (Linux; U; Android 9; in-id; CPH1911 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.80 Mobile Safari/537.36 HeyTapBrowser/25.7.2.5IP: 203.207.56.212
+ User-Agent: Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-M205G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/12.0 Chrome/79.0.3945.136 Mobile Safari/537.36IP: 36.71.233.198
+ User-Agent: Mozilla/5.0 (Linux; Android 6.0; MI 5C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Mobile Safari/537.36IP: 115.178.211.75
+ User-Agent: Mozilla/5.0 (Linux; Android 9; vivo 1902 Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36 VivoBrowser/6.5.0.4IP: 114.79.55.131
+ User-Agent: Mozilla/5.0 (Linux; Android 9; vivo 1902 Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36 VivoBrowser/6.5.0.1IP: 180.253.5.119
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0IP: 61.94.209.168
+ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
